@@ -20,7 +20,6 @@ int main(){
     printf("Area(km²): %f \n", area01);
     printf("PIB(bilhoes): %f \n",PIB01);
     printf("Pontos_turisticos: %d \n", turisticos01);
-    
     printf("\n");
     printf("\n");
 

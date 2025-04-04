@@ -11,6 +11,8 @@ int main(){
     float PIB =  300.50;
     int turisticos = 25;
 
+    printf("Codigo da cidade: %s\n", codigo);
+
 
     printf("carta2\n");
     char Estado = "Ceara";

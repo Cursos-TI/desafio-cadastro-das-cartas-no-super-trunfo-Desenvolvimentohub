@@ -1,8 +1,9 @@
-#include <stdio.h>;
+#include <stdio.h>
 
 int main(){
 
-    printf("Desafio supertrunfo - carta01\n");
+    printf("Desafio super trunfo\n");
+    printf("carta01\n");
     printf("\n");
 
     char Estado01 [15]= "Bahia";
